@@ -1,0 +1,6 @@
+{
+  "name": "DinaLive",
+  "description": "تطبيق لايفات مغربي للمضيفات والداعمين مع نظام شات وهدايا مباشر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
